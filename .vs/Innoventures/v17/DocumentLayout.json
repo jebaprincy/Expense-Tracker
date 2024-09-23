@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|C:\\Users\\jeevi\\source\\repos\\Innoventures\\dboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:dboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|c:\\users\\jeevi\\source\\repos\\innoventures\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|C:\\Users\\jeevi\\source\\repos\\Innoventures\\d2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:d2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|C:\\Users\\jeevi\\source\\repos\\Innoventures\\d2.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:d2.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|C:\\Users\\jeevi\\source\\repos\\Innoventures\\d1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:d1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|C:\\Users\\jeevi\\source\\repos\\Innoventures\\user.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:user.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|c:\\users\\jeevi\\source\\repos\\innoventures\\d1.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:d1.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|C:\\Users\\jeevi\\source\\repos\\Innoventures\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|C:\\Users\\jeevi\\source\\repos\\Innoventures\\user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:user.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|C:\\Users\\jeevi\\source\\repos\\Innoventures\\newregister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:newregister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|C:\\Users\\jeevi\\source\\repos\\Innoventures\\newregister.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{13439543-3B19-47C4-8390-6C8544354CBC}|Innoventures.vbproj|solutionrelative:newregister.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\login.aspx",
+              "RelativeDocumentMoniker": "login.aspx",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\login.aspx",
+              "RelativeToolTip": "login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-17T01:46:11.211Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "d2.aspx",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\d2.aspx",
+              "RelativeDocumentMoniker": "d2.aspx",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\d2.aspx",
+              "RelativeToolTip": "d2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-22T15:59:05.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "d2.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\d2.aspx.vb",
+              "RelativeDocumentMoniker": "d2.aspx.vb",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\d2.aspx.vb",
+              "RelativeToolTip": "d2.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-23T03:18:57.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "user.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\user.aspx.vb",
+              "RelativeDocumentMoniker": "user.aspx.vb",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\user.aspx.vb",
+              "RelativeToolTip": "user.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-23T01:34:21.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dboard.aspx",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\dboard.aspx",
+              "RelativeDocumentMoniker": "dboard.aspx",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\dboard.aspx",
+              "RelativeToolTip": "dboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-23T01:28:15.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\login.aspx.vb",
+              "RelativeDocumentMoniker": "login.aspx.vb",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\login.aspx.vb",
+              "RelativeToolTip": "login.aspx.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-22T15:09:30.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "d1.aspx",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\d1.aspx",
+              "RelativeDocumentMoniker": "d1.aspx",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\d1.aspx",
+              "RelativeToolTip": "d1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-22T13:39:28.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "user.aspx",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\user.aspx",
+              "RelativeDocumentMoniker": "user.aspx",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\user.aspx",
+              "RelativeToolTip": "user.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-17T03:09:31.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "newregister.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\newregister.aspx.vb",
+              "RelativeDocumentMoniker": "newregister.aspx.vb",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\newregister.aspx.vb",
+              "RelativeToolTip": "newregister.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-21T09:22:22.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "newregister.aspx",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\newregister.aspx",
+              "RelativeDocumentMoniker": "newregister.aspx",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\newregister.aspx",
+              "RelativeToolTip": "newregister.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-21T07:43:00.943Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 23,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "d1.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\d1.aspx.vb",
+              "RelativeDocumentMoniker": "d1.aspx.vb",
+              "ToolTip": "C:\\Users\\jeevi\\source\\repos\\Innoventures\\d1.aspx.vb",
+              "RelativeToolTip": "d1.aspx.vb",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-22T18:42:10.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
